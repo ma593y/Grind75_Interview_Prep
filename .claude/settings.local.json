@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s \"C:\\\\Users\\\\ma593\\\\Desktop\\\\repos\\\\Grind75_Interview_Prep\")",
+      "Bash(dir /s /b)"
+    ]
+  }
+}
